@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Western Monochromatic</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header / Navbar -->
+    <header>
+        <div class="logo">WESTERN CO.</div>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">Collection</a>
+            <a href="#">Lookbook</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1>MONOCHROME WESTERN</h1>
+            <p>Classic aesthetic meets modern minimalism. Explore the grey slate.</p>
+            <a href="#" class="btn">Shop Collection</a>
+        </div>
+    </section>
+
+    <!-- Collection Grid -->
+    <section class="products">
+        <h2>THE GREY LOOKBOOK</h2>
+        <div class="grid">
+            <div class="card">
+                <div class="img-placeholder dark-grey"></div>
+                <h3>Charcoal Jacket</h3>
+                <p>$120.00</p>
+            </div>
+            <div class="card">
+                <div class="img-placeholder light-grey"></div>
+                <h3>Ash Denim</h3>
+                <p>$85.00</p>
+            </div>
+            <div class="card">
+                <div class="img-placeholder mid-grey"></div>
+                <h3>Slate Boots</h3>
+                <p>$150.00</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2026 Western Co. All Rights Reserved. Monochromatic Elegance.</p>
+    </footer>
+
+</body>
+</html>
